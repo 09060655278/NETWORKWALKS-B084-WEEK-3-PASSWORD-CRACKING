@@ -6,87 +6,94 @@
 
 ## 📌 Overview
 
-This repository documents my Week 3 practical cybersecurity projects as part of the NetworkWalks Cybersecurity and Penetration Testing Training (Batch B084).
+Welcome to my Week 3 Cybersecurity Practical Projects repository, completed as part of the **NetworkWalks Cybersecurity and Penetration Testing Training (Batch B084).**
 
-The practical sessions focus on understanding password security, password-cracking concepts, and the use of security tools in controlled laboratory environments.
+This repository documents two practical sessions focused on password security, password-cracking concepts, and the application of cybersecurity tools in an authorised laboratory environment.
 
-Two practical projects are covered in this repository.
+The projects covered include:
 
-## 🎯 Projects Covered
+- **W3-PM1:** Password Cracking with John the Ripper (JTR).
+- **W3-PM2:** Password Cracking with NW Tools.
 
-### 1. W3-PM1: Password Cracking with John the Ripper (JTR)
+## 🎯 PROJECT 1: W3-PM1 – PASSWORD CRACKING WITH JOHN THE RIPPER (JTR)
 
-This practical focuses on understanding John the Ripper (JTR), its role in password security assessment, and how password auditing works in an authorised laboratory environment.
+### 📖 Overview
 
-**Project Contents:**
-- Practical report.
-- Screenshots of the laboratory activities.
-- Tool overview.
-- Observations and findings.
-- Lessons learned.
+This practical session focuses on understanding John the Ripper (JTR), its functionality, and its application in password security assessment.
 
-📂 [View W3-PM1 Project](./W3-PM1-PASSWORD-CRACKING-WITH-JTR/)
+The exercise provides practical exposure to password auditing concepts and the importance of identifying weak password practices.
 
-### 2. W3-PM2: Password Cracking with NW Tools
+### 🛠️ Tool Used
+- John the Ripper (JTR)
 
-This practical explores password-cracking concepts using the NW Tools introduced during the training.
+### 📸 Practical Evidence
 
-**Project Contents:**
-- Practical report.
-- Screenshots of the laboratory activities.
-- Tool overview.
-- Observations and findings.
-- Lessons learned.
+The following images document my practical activities and evidence from the John the Ripper session.
 
-📂 [View W3-PM2 Project](./W3-PM2-PASSWORD-CRACKING-WITH-NW-TOOLS/)
+**Screenshot 1 – JTR Practical Exercise**
 
-## 🛠️ Tools and Technologies
+![JTR Screenshot 1](W3-PM1-PASSWORD-CRACKING-WITH-JTR/Screenshots/pdf1.jpg)
 
-- Kali Linux
+**Screenshot 2 – JTR Practical Exercise**
+
+![JTR Screenshot 2](W3-PM1-PASSWORD-CRACKING-WITH-JTR/Screenshots/pdf2.jpg)
+
+**Screenshot 3 – JTR Practical Exercise**
+
+![JTR Screenshot 3](W3-PM1-PASSWORD-CRACKING-WITH-JTR/Screenshots/pdf3.jpg)
+
+### 📚 Learning Outcomes
+- Understanding John the Ripper.
+- Introduction to password auditing.
+- Understanding password security weaknesses.
+- Learning the importance of strong passwords.
+- Applying cybersecurity tools in an authorised laboratory.
+
+---
+
+## 🎯 PROJECT 2: W3-PM2 – PASSWORD CRACKING WITH NW TOOLS
+
+### 📖 Overview
+
+This practical session explores password-cracking concepts using NW Tools as introduced during the NetworkWalks training.
+
+The exercise provides an opportunity to understand the tools, their applications, and their relevance to password security assessment.
+
+### 🛠️ Tool Used
+- NW Tools
+
+### 📸 Practical Evidence
+
+**NW Tools – Practical Exercise**
+
+![NW Tools Screenshot](W3-PM2-PASSWORD-CRACKING-WITH-NW-TOOLS/Screenshots/pdfnw.jpg)
+
+### 📚 Learning Outcomes
+- Understanding NW Tools.
+- Exploring password security assessment concepts.
+- Developing practical cybersecurity skills.
+- Understanding responsible password auditing.
+
+---
+
+## 🛡️ Ethical Considerations
+
+All activities documented in this repository are intended strictly for educational purposes and authorised cybersecurity laboratory environments.
+
+Password security assessments should only be conducted on systems, accounts, and password samples for which explicit permission has been granted.
+
+No unauthorised access to personal accounts or third-party systems is intended.
+
+## 🧰 Tools & Technologies
+
 - John the Ripper (JTR)
 - NW Tools
 - GitHub
 - Virtual Laboratory Environment
 
-## 📁 Repository Structure
-
-```text
-WEEK-3-PASSWORD-CRACKING/
-│
-├── README.md
-├── W3-PM1-PASSWORD-CRACKING-WITH-JTR/
-│   ├── Report/
-│   ├── Screenshots/
-│   └── README.md
-│
-└── W3-PM2-PASSWORD-CRACKING-WITH-NW-TOOLS/
-    ├── Report/
-    ├── Screenshots/
-    └── README.md
-```
-
-## 🔐 Ethical Considerations
-
-All practical activities documented in this repository are intended for educational purposes and authorised cybersecurity laboratory environments.
-
-Password security testing should only be conducted on systems, accounts, and password samples for which explicit permission has been granted.
-
-No unauthorised access to personal accounts or third-party systems is intended.
-
-## 📚 Learning Outcomes
-
-Through these practical sessions, I aim to develop a better understanding of:
-
-- Password security and authentication.
-- Password auditing concepts.
-- Password-cracking tools and their applications.
-- Security weaknesses associated with weak passwords.
-- Ethical and responsible cybersecurity practices.
-- The importance of strong password policies.
-
 ## 👨‍💻 Author
 
-**Akanbi Temitope Benjamen**
+**AKANBI TEMITOPE BENJAMEN**
 
 Cybersecurity Student | Aspiring Cyber Analyst | Digital Forensics Enthusiast
 
@@ -96,8 +103,10 @@ Cybersecurity Student | Aspiring Cyber Analyst | Digital Forensics Enthusiast
 
 Special appreciation to NetworkWalks, the instructors, facilitators, and everyone contributing to my cybersecurity learning journey.
 
+Thank you for providing an opportunity to learn, practise, and develop practical skills in cybersecurity.
+
 ---
 
-⭐ Thank you for visiting this repository!
+⭐ **Thank you for visiting my repository!**
 
-**Learning. Practising. Building. Growing in Cybersecurity.**
+**LEARNING | PRACTISING | BUILDING | GROWING IN CYBERSECURITY**
