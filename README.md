@@ -32,15 +32,15 @@ The following images document my practical activities and evidence from the John
 
 **Screenshot 1 – JTR Practical Exercise**
 
-![JTR Screenshot 1](W3-PM1-PASSWORD-CRACKING-WITH-JTR/Screenshots/pdf1.jpg)
+![JTR Screenshot 1](W3-PM1-PASSWORD-CRACKING-WITH-JTR/pdf1.jpg)
 
 **Screenshot 2 – JTR Practical Exercise**
 
-![JTR Screenshot 2](W3-PM1-PASSWORD-CRACKING-WITH-JTR/Screenshots/pdf2.jpg)
+![JTR Screenshot 2](W3-PM1-PASSWORD-CRACKING-WITH-JTR/pdf2.jpg)
 
 **Screenshot 3 – JTR Practical Exercise**
 
-![JTR Screenshot 3](W3-PM1-PASSWORD-CRACKING-WITH-JTR/Screenshots/pdf3.jpg)
+![JTR Screenshot 3](W3-PM1-PASSWORD-CRACKING-WITH-JTR/pdf3.jpg)
 
 ### 📚 Learning Outcomes
 - Understanding John the Ripper.
@@ -66,7 +66,7 @@ The exercise provides an opportunity to understand the tools, their applications
 
 **NW Tools – Practical Exercise**
 
-![NW Tools Screenshot](W3-PM2-PASSWORD-CRACKING-WITH-NW-TOOLS/Screenshots/pdfnw.jpg)
+![NW Tools Screenshot](W3-PM2-PASSWORD-CRACKING-WITH-NW-TOOLS/pdfnw.jpg)
 
 ### 📚 Learning Outcomes
 - Understanding NW Tools.
